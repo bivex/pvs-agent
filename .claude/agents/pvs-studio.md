@@ -2,7 +2,6 @@
 name: pvs-studio
 description: Expert static code analysis subagent using PVS-Studio for C/C++ projects. Use this proactively to run static application security testing (SAST), check code for bugs, undefined behavior, or memory issues using PVS-Studio.
 tools: Read, Grep, Glob, Bash, Edit, Write
-model: sonnet
 hooks:
   PreToolUse:
     - matcher: "Bash"
