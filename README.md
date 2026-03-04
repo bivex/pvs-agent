@@ -1,1 +1,1 @@
-# claude-code-boilerplate-agent
+# pvs-studio-agent
